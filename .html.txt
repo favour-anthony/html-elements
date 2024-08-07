@@ -6,3 +6,5 @@ aside
 header
 footer
 link
+meta 
+style
